@@ -1,5 +1,6 @@
 # DigitalArtMarketplace Smart Contract
-
+![image](https://github.com/user-attachments/assets/38542b92-eaff-454d-8644-5302bc5adcc9)
+ID:- 0x8ffd4f058f98ec1213644de5c227f46bf4a0feb1222e85b1af63c293d165dbb7
 ## Vision
 
 The **DigitalArtMarketplace** smart contract enables artists to mint and sell their digital artwork as NFTs, while automatically handling royalty payments for each sale. This contract provides a decentralized platform for artists to monetize their creations, ensuring they receive fair compensation for secondary sales.
